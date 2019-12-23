@@ -1,0 +1,10 @@
+{
+  "provider": "https://mainnet.infura.io/v3/f3ae7f9814e74083bd2aff9eafdc0773",
+  "blockchain": "ETH",
+  "token": "0xa8c2753427b82418917b46b63718482833e579f3",
+  "fundMinimum": ".1",
+  "tokenLimit": "500",
+  "spread": "0.002",
+  "dustCutoff": "0.001",
+  "bandSize": "2"
+}
